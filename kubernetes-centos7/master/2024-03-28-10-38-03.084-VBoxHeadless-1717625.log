@@ -1,0 +1,12 @@
+Log created: 2024-03-28T10:38:03.845420000Z
+Process ID:  1717625 (0x1a3579)
+Parent PID:  5008 (0x1390)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: master.xtl
+Arg[3]: --startvm
+Arg[4]: 48239d88-39e9-40b0-abfa-1cadb7a6bee8
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
